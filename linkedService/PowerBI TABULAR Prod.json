@@ -1,0 +1,12 @@
+{
+	"name": "PowerBI TABULAR Prod",
+	"type": "Microsoft.Synapse/workspaces/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "PowerBIWorkspace",
+		"typeProperties": {
+			"workspaceID": "58e007fe-646b-4c66-b0f2-5a27815ceb65",
+			"tenantID": "fd4d9467-c4f8-4047-8eaa-df6a28efac4e"
+		}
+	}
+}
